@@ -1,0 +1,37 @@
+18/03/2016
+So far 1st mt is on 6th april before, 116 exam.
+
+
+To this moment we have learned this:
+Directional fields,
+Mathematical modelling,
+And used to solve problems of the sort: Solve the equation: or Find the solutions of the equation:
+Which was equivalent to find f(x) = equation: Not in terms of derivatives, or using derivatives.
+
+Chapter 1:
+1.1 Some Basic Mathematical Models; Direction Fields
+
+1.2 Solutions of Some Differential Equations
+
+1.3 Classification of Differential Equations
+
+Chapter2:First Order Differential Equations
+2.2,
+2.1,2.6,2.8,
+
+Chapter 7:Systems of First Order Linear Equations
+7.1, 7.2, 7.3, 7.5, 7.6(here), 7.7, 7.9
+
+Chapter 4: Higher order differential equations:(probably ones we cannot turn into 1st order)
+
+Chapter 5. Series Solutions of Second Order Linear Equations
+
+Chapter 6. The Laplace Transform
+
+Chapter 10. Partial Differential Equations and Fourier Series
+
+Finish!(sexy place) That is it. Dif is done.
+
+Currently we are learning:
+Systems of first order linear equations,
+
