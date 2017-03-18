@@ -1,0 +1,18 @@
+Math 407 game theory:
+
+
+Even if it means to learn major topics of the book:
+It will be this:
+
+
+What did we learn so far?
+
+We learned subtraction games, nim games, and compoosite games.
+we also learned zero sum games. whicha re basically matrix games:
+Matrix games consisted of:
+2*2 games, 2*n, m*2, n*m games.
+n*m games which are nonsingular were solved using nonsingular strategy.
+
+ Now we started the game colonel blotto:
+  And there is a way to review these: night before going to the exam?
+  No therefore I start preparing noe
