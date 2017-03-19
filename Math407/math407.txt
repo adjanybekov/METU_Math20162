@@ -16,3 +16,19 @@ n*m games which are nonsingular were solved using nonsingular strategy.
  Now we started the game colonel blotto:
   And there is a way to review these: night before going to the exam?
   No therefore I start preparing noe
+
+
+  HW3:
+  First I proved that, latin square games have uniform distribution of praobabilities, and that V = mean of values of any row or column
+
+  Now I will prove:
+  How Diagonal matrix gives a V, p and q.
+  V = (sum of 1/d_i)^-1.
+  from diagonal formula: [sum i from 1 to m (aij*pi)= V] where pi is in P;
+  Since matrix is diagonal: all aij except i==j are 0 and therefore V= aij*pi
+so pi = V/aij
+elements of Q are found in the similar manner qi = V/aij.
+This saves a lot of time and effort in solving these problems.
+
+  Q = {q1 ... qn};
+  P = {p1 ... pn}; 
