@@ -20,7 +20,10 @@ Chapter2:First Order Differential Equations
 2.1,2.6,2.8,
 
 Chapter 7:Systems of First Order Linear Equations
-7.1, 7.2, 7.3, 7.5, 7.6(here), 7.7, 7.9
+7.1, 7.2, 7.3,
+ 7.5here, All sugesteds are solved
+
+ 7.6, 7.7, 7.9
 
 Chapter 4: Higher order differential equations:(probably ones we cannot turn into 1st order)
 
