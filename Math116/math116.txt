@@ -1,0 +1,36 @@
+Now I am given a problem which asks: me to
+prove that Z is a group wrt a * operation:
+I remember this, but it is not concrete.
+G is a group if 4 conditions hold:
+1 G is closed under *
+2 * is associative 
+3 G has identity element
+4 G contains inverses for all a in G
+
+part B; asks to show that alfa is an isomorphism.
+Lets define isomorphism.
+let theta: G-> G'
+function theta is called isomorphic if:
+1 theta has 1-1 from G to G'
+2 theta(x*y) = theta(x) ^ theta(y)
+
+isomorhism from G to G is called automorphism.
+
+We ve got some suggested problems, let's try them before coming to the lecture.
+
+Now I feel that I am very back of the concepts learned in the class.
+So let me just catch it up.
+1. Start with solvving suggested problems.
+2. Read the theorems.
+3. solve past years mt1s.
+Along the way learn new stuff.
+
+Ok there is no s.p for this section, therefore I will choose them myself.
+start is 2.5 congruence of integers. end is 2.6 conruence classes.
+
+Ok now I think that I will start with solving exaples which have solution. TO learn.
+
+
+I have 5 mt 1's.
+I need to solve MT1s. Should I solve all of them?
+When?
