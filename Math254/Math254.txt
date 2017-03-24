@@ -38,3 +38,39 @@ Finish!(sexy place) That is it. Dif is done.
 Currently we are learning:
 Systems of first order linear equations,
 
+
+21/03/2017
+Now I am intended to review the concepts of last lecture.
+And then solve problems related to tommorow's quiz(exact equations and integrating factors).
+
+22/03/2017
+Now Morning routine after excercising.
+Since I reviewed lecture notes w.o. book, and I wonder in which part of the book I can find info about drawing graphs?
+I do it during/after the lecture.
+Now I focus on solving exact value and integrating factor problems which are chapter number what?
+Chapter 2 paragraph 2.6 .
+sps: 1,2,4,7,12
+
+solve eqn: which is neither linear nor separable:
+
+
+That defines solutions of eq 1 implicitly.
+What does it mean to be given implisitly?
+
+Find psi(x,y) s.t. d(psi)/dx - d(psi)/dy y' = 0; this is called exact equation
+where d(psi)/dx = M(x,y) and d(psi)/dy = N(x,y)
+
+If i am given an exact eqn: it is not a solution yet. I need to integrate it wrt x and then wrt y. make h(y) in the first, then by integrating find h'(y) and then find integral of h'(y).
+After that combine results of Nx and mx to derive implicitly solution of dif eq. or psi(x,y).
+Ok . Now I continue with integrating factors.
+Qn of the form find i.f. of dif.eq. and then solve the eqn.
+To see that given eqn is exact check
+My == Nx mean psi()xy == psi()yx mean that psi is cont and has cont 2nd order 
+Otherwise it is not exact.
+But here is where int. factor comes. 
+Conversion is possible
+
+22/03/2017
+course is about finding solution of dif eq.
+And Each chapter shows how to handle new cases.
+I underperformed today in quiz. But after the quiz we got it solved. By method that I already forgot.
