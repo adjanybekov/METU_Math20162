@@ -32,3 +32,23 @@ This saves a lot of time and effort in solving these problems.
 
   Q = {q1 ... qn};
   P = {p1 ... pn}; 
+
+
+  22/03/2017
+
+I need to do sth about 407 today, tommorow because after tommorow I have MT1.
+What should I do?
+prep for exam and review last lecture concepts.
+How? Latter is strfwrd. Solve todays problem and understand.
+For others now, is to sole what we already solved.
+Or also try hackerrank 1,2 problems.
+What is not clear yet? Where do I feel weak now?
+in Fictious game n*m matrix and hw, solve hw problem.
+nonsingular matrix n*n.
+
+24/03/2017
+Today I have mt1 on 407.
+What is the first step??
+Which steps are needed to increase the ability to solve todays questions on the exam?
+Review notes, and solve one qn of each type.
+Review parts that I am not sure about and then continue with, the rest.
