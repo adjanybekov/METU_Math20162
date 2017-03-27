@@ -52,3 +52,22 @@ What is the first step??
 Which steps are needed to increase the ability to solve todays questions on the exam?
 Review notes, and solve one qn of each type.
 Review parts that I am not sure about and then continue with, the rest.
+Nonsingular, 2*n m*2, fictious, and simplex method algorithm, sprague grandie, colonell blotto,
+Ok at this point it feels like I am done with 2ndm now it's time to learn fictious games and simplex,, and then colonell.
+
+
+define finite games.
+colonell solved and understood.
+
+Next game to reexplore is fictious, and simplex method algorithm.
+During the lunch break. 2.44
+That will finish the prep for exam, and of course sutlu cikolata and water from sesli in 45 mins.
+Let's start with what I know. 
+Pivot method for solving games.
+
+At this point, I have rediscovered pivot method of solving games.
+It doesn't say any strategy, It just starts applying algorithm.
+Now I can continue with seeing and solving  
+
+Do I need to know upper and lower values of the game?
+Let's learn it after Fictitious
