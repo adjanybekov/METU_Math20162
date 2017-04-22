@@ -34,3 +34,17 @@ Ok now I think that I will start with solving exaples which have solution. TO le
 I have 5 mt 1's.
 I need to solve MT1s. Should I solve all of them?
 When?
+
+WHat is orbit? Disjoint subset of a permutation is called orbit.
+difference bw sycle and orbit. Disjoint cycle(functuion i1->i2 etc.)
+S_n symmetryc group
+Ask part g.
+mao everything from 1 to n and then separate into cycles.
+Transposition: 2cycle.
+How to comute the inverse of a fucntion.
+alternating group. Set of all even permutations <n; COnjugate elements.
+finding conjugage of an element in a group. Is like this.
+
+During the exam I usually find myself thinking about the definition of a term that is used in the question. And What comes to my mind is not precise. And I end up misunderstanding, the question. Thus answer becomes equivalently unclear. To avoid it. Learn definitions.
+Plain theory is really boring to learn. They might want to entertain us by challengin with problems.
+During this session, you can list question to ask to teacher, or assistant later today.

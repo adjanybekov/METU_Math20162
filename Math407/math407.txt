@@ -71,3 +71,17 @@ Now I can continue with seeing and solving
 
 Do I need to know upper and lower values of the game?
 Let's learn it after Fictitious
+Now 31/03/2017
+I am starting solving hw3 . Since there is not so much time to get to new let me continue the old. I go out at 20:05 and within 25 mins I wanna reach the sport hall and start physical training. Until that I got about 10 mins. 
+Let me check the 1st qn and try to find answer for it. To answer other ones I need to understand them first.
+Qn is this. Given recursive game G=[] is it equal to the expanded version of itself?
+
+Game has recursive form and is called stochastic. 
+
+
+17/04/2017
+Now we are learning general sum games related with sth like prisons dilemma. But I don't remmeber, and it is ok. But try better connect, by 1 review after class for the next class. Take notes or photos to capture profs, lecture. He ll ask what he xplained.  
+Ok now I remembered the games and their rules. Cuz I have xplained them to Sungat. 
+Game1 was about Pirates, Game2 was about doubling money.(Centipide game)after prisoners dilemma
+doubling monye game looks like this.Starts with (1,1) coins, P1 starts the game, at each step Player can either stop or continue the game. If he stops he gets current amount, otherwise he looses 1 coin, and his opponent gets 2 coins. Then it is his opponents turn and same decision is made. The purpose of the game is You gain more than others, or no one gets more than you. So the game ends at (1,1). 
+Pirates game: N pirates, at each step Pirate #N decides how to share money, other decide whether to kill him or to continue...(?)

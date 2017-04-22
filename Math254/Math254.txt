@@ -74,3 +74,49 @@ Conversion is possible
 course is about finding solution of dif eq.
 And Each chapter shows how to handle new cases.
 I underperformed today in quiz. But after the quiz we got it solved. By method that I already forgot.
+It is important to review that one. 
+
+27/03/2017
+Now we are learning, repeated eigenvalues...
+What is that?
+
+
+Today. During the lecture we learned that...
+Repeated eigenvalues.
+It is the case when there are two or more same roots. During the lecture I decided. That I will resolve all lecture problems again. Let's see.
+Let's talk about new learned concepts. There was Jordan form. And when do we use it? WHat is it and what is the theorem associated with it? 
+And there also was a case about replacing complex terms of a solution with U(i) and V(i). I am not sure about that. We also talked about generalized eigenvector, the one which is found using the eigenvector.
+Along the way I need to remember how.
+
+Now 29/03/2017
+What is the first step in learning this now?
+What did we learn so far?
+I guess we learned sloving homogeneous sytem of differential equations.
+Few cases: In case if eigenvalues of a matrix are different, then we find corresponding eigenvectors, 
+Using both we construct solution. If initial condition is given. Then we can find coefficients. How? solve system of equations.
+Otherwise we leave constants as c1 ...
+In case if roots are complex(eigenvalues), we still can find the solution: How? $7.6....
+
+In case if the eigenvalues yield the same values, then we need to apply the approach of repeated eigenvalues.
+It happens when there is only one eigenvector. And A is no more diagonalizable.(Was it diagonalizable before?)
+What is the solution?
+
+Somehow, the installation dates of programs got changed. I think it is a virus taking place on my computer.
+So far I learned how to solve System of Equations in differential equations. Apparently I cannot think of a case of solving single differential equation. This is sth important in preparation for exam. 
+What is my decision about multicase. It seems to be taking long. With prof it will be faster. Let me just prepare my questions, Ahead of time so that I know how to fill this gap there. They are on trello. And in copybook. Let all be in trello.
+But there is nothing trello. I probably deleted or sth like that has happened.
+Ok I found it. By observing "not randomly" the recent activity in trello.
+Let's define what is fundamental set of solutions.
+My description of the situation is this. But it is probably not enought yet.	Fundamental set of solutions are described in achapter that we didn't learn by syllabus, and then we are given, fundamental matrixes which make use of "fundamental set of solutions", Probably I need to learn them by myself. Or fro prof. by accepting its defintion and result for now.
+
+03/04/2017
+WHat does exact equation give us? DOes it pushes us closer to the solution of d.e.?
+Могу ли я баловаться и зарабатывать на Баловстве?
+
+04/04/2017
+Чето после поровки я так и не догадался до ответа, никакого креативного мышления не вышло, Надо бы попробовать что-то другое.
+Growth only occurs in a state of discomfort.
+Мне нужно ддать пока нас случайность столкнет.
+
+17/04/2017
+Now we are learning higher order Linear equations.

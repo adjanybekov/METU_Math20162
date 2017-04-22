@@ -1,3 +1,19 @@
 To show that polynomial is prime. Show that it is monic and irreducible.
 To show that it is irreducible. Show that if f = gh then deg(g)=0 or deg(h)=0. 
 In this case it was achieved by showing the there is no. factors of degree (1 and 3) and (2,2) to satisfy this, which is the negation. To show this, you must show that if they existed they would lead to a contradiction.
+
+
+Now I am in eigen-(vectors,values, spaces) section. What did I learn from it?
+There is sth called Kernel of an operator T-cI. I don't know what is that?
+It is a Subset Wc = {a in V| Ta=ca} since Kernel (null space), set of all v's st T(v) = 0
+(T-cI)(v) = 0;
+span - set of linear combinations of vectors
+column space  = span of column vectors,
+
+Basis =  linearly independent, span all vector space.
+
+A is in row echeclon form if: 
+1;all nonzero rows are above any rows of all zeros 
+2:leading ocef of nonzero row always to the right of the leading coef of the row above it.
+some prefer lead coef to be 1;
+Many properties can be deduced from r.e.f.    

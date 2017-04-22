@@ -1,0 +1,23 @@
+Let me see it.
+Now for the question about Tidy Numbers:
+My code handles small input but it falls behind large input although it can take them.
+First of all if I want to resolve it for large inputs then I need to make improvements on time, otherwise I will get timeout. Which means that I either check the number to be tidy or not in O1.
+Currently it takes me a (Length of number)*(Difference bw current and First TidyNum) which can be large. And therefore take more time. But ptimization can resolve it.
+I am given N number of empty seats and ppl sit as far as possible from each other. MinLsRs is min distabce from closest on. MaxLsRs is max distance from farthest one.
+
+For each test case I am gonna say:
+I can sit down and place them accurately: at once and in o1 find max and min intervals:
+What are the edge cases?
+
+JUst simulate the process, and keep track of smallest and biggest intervals:
+How do I simulate the process?
+Given Places 1-1000:
+
+I place 1st to the n/2 and set max interval to difference N-n/2;
+I might need to keep indexes which are occupied. Or indexes of min interval and max interval.
+Simulaiting a process is superhard. And I got only 4 minutes. I wont be able to do. I need more time in order to get it done.
+Let me submit it this way. Как же я не справился? Я же ожидал что пройду Qualificaition. И прошел бы если бы еще полс=часа былобы. Я сейчас снова в панике. Ну это было очевидно что за 30 мин, которые у меня были я бы смог пройти процесс и закодировать его. Во время кодирования я обнаруживаю что недосчитал некоторые детали. Потомучто код это детальное описание процесса. Но если бы я смог натренировать в себе Умение мыслить быстрее то возможно успею. Где нибудь еще. И да на это у меня есть полная возможность. Я могу натренировать быстрое мышление на рабооте и во вроемя учебы. Под Быстрым мышлением я имею ввиду, мышления о процессе и движение вперед как это делает Yildiray Ozan во время урока по Differential Equations. Он берет в руки мел. И мысли гладко идут по процессу, понятно и вто же время быстро и втоже время не останавливается и не отвлекается на посторонние отвлечения разве что иногда мыслит о том как лучше продемонстрировать лекцию. Воот. А если бы мне пришлось думать об этом задании, то как бы я это сделал? Ну я бы просимулировал процесс. Зачем? Чтобы к концу вытащить минимум и максимум интервалы. Воот, а как бы я их вытащил из симуляции?
+Один выход это взять boolean array, наполнить false values. А потом, сделать на нем процесс заполнить занятые позиции значениями true. И почле того как все люди расставлены, можно будет один раз пройтись по массиву и опредеить максимум интервал of false values  minimum interval of false values.
+А как бы я мог просимулировать игру? Я бы ставил людей на позиции n/2 самых длинных позиций. А как бы я знал какие интервалы самые длинные? Надо ща ними как-то слелить... А точнее за их индексами. А это тяжковато....
+
+If I have thought that this Competition will be + in next application for google internship. I would Work harder on it. But I realized it at last hour of competition. So to make sure that this case doesn't happen again. I will do my best at any job I do.
