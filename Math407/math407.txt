@@ -85,3 +85,36 @@ Ok now I remembered the games and their rules. Cuz I have xplained them to Sunga
 Game1 was about Pirates, Game2 was about doubling money.(Centipide game)after prisoners dilemma
 doubling monye game looks like this.Starts with (1,1) coins, P1 starts the game, at each step Player can either stop or continue the game. If he stops he gets current amount, otherwise he looses 1 coin, and his opponent gets 2 coins. Then it is his opponents turn and same decision is made. The purpose of the game is You gain more than others, or no one gets more than you. So the game ends at (1,1). 
 Pirates game: N pirates, at each step Pirate #N decides how to share money, other decide whether to kill him or to continue...(?)
+
+
+14/05/2017 20:00
+
+Sitting over here. Waiting for the moment of reality to come and strike me.
+It is time for 407.
+Lets see what we have learned so far.
+I am competing with myself. TO be better than before.
+
+So far we are in Chapter 3:
+2 person general sum game. Part 4: Cooperative games.
+Where they are not trying to increase only their own inocome but income they make together.
+
+
+What do I need to do to be preapared for coming lecture tommorow?
+I remember things like 
+Safety level.
+
+Now we are learning Cooperative games. So lemme start from there.
+This semester I am going to improve 2 courses. 251 and 116 therefore my GPA is going to raise up again.
+And I will apply for minors and majors in ceng and ba.
+There are special terms that I need to understand such as:{ disagreement point and how to find it,  safety level, maxmin strategy of finding values and strats,  tarnsferable utilyt and nt utility}
+
+a binding agreement.
+Set of payoff vectors if they cooperate is called feasabe set. side payments.
+wo tu only one of ij cells can be achieved as a result of agreement.
+Pareto optimal outcome. WHat is a side payment mean? 
+Pareto optimal: WHy do 2 vectors equal ??
+Transfer utility means that one will give little to another s.t. he another agrees on common strategy.
+
+What do threat ands side payment mean? And why are thay used together?
+
+cooperative strategy = joint choice which leads to a single entry max max ij
